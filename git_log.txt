@@ -1,0 +1,10 @@
+GIT REPOSITORY STATUS
+=====================
+
+Repository was initialized in the project folder.
+
+COMMIT HISTORY
+==============
+dc638e1 Add Task 1 combined dataset
+1c7d4cd Add Task 2 cleaned dataset
+54df135 Add Task 3 fairness reflection
